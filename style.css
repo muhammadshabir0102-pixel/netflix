@@ -691,6 +691,10 @@ padding: 2rem 1rem;
 height: auto;
 }
 
+    .feature__image{
+  max-width: 100%;
+  margin-top: 34px;
+}
 .feature__details,
 .feature__details2,
 .feature__detail3,
@@ -722,7 +726,7 @@ justify-content: center;
 
 .feature__backgroud__video{
   max-width: 100%;
-  margin-top: 129px;
+  margin-top: 229px;
 }
 .feature__image.feature__3__image{
   max-width: 100%;
@@ -828,4 +832,5 @@ font-size: 0.9rem;
 .feature {
 padding: 1.5rem 1rem;
 }
+
 }
