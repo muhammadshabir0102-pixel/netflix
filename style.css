@@ -262,7 +262,7 @@ margin-bottom: 16px;
 /* place the image container on the right side */
 .feature__image__container {
   position:absolute;
-  top: 50%;
+  top: 60%;
   right: 2rem;
   transform: translateY(-50%);
   width: 45%;
@@ -450,7 +450,7 @@ flex-direction: row;;
   .feature__backgroud__video.feature__3__backgroud__video{
     width: 286px;
     margin-left: 28px;
-    margin-top: -40px;
+    margin-top: -35px;
   }
   .feature4{
     
@@ -834,3 +834,4 @@ padding: 1.5rem 1rem;
 }
 
 }
+
